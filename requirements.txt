@@ -1,0 +1,5 @@
+customtkinter
+CTkColorPicker
+pillow
+matplotlib
+tkinterdnd2
